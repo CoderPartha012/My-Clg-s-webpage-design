@@ -1,2 +1,2 @@
 # My-Clg-s-webpage-design
-My Clg's webpage design using HTMML &amp; CSS
+My Clg's webpage design using HTML &amp; CSS
